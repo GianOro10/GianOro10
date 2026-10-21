@@ -27,11 +27,12 @@ I have worked across **financial services, aviation, healthcare, and the public 
 | Architecture & Integration | BIAN, API-first, Microservices, Event-driven Architecture, REST, SOAP, OpenAPI, Kong, RabbitMQ, Apache Camel, MuleSoft, IBM Integration Bus |
 | Data & Observability | PostgreSQL, Oracle, SQL Server, MongoDB, Redis, Prometheus, Grafana, ELK/OpenSearch, OpenTelemetry |
 | Engineering | Java, Spring Boot, SQL, Clean Architecture, Hexagonal Architecture, C4, UML |
-| Applied AI | LLM-assisted technical analysis, architecture documentation, and DevOps automation |
+| Applied AI | RAG, LLM architecture, citations, guardrails, evaluation, observability, and DevOps automation |
 
 ### Selected public work
 
-- [Architecture Lab](https://github.com/GianOro10/architecture-lab) — enterprise architecture patterns, ADRs, HLD reference designs, Mermaid diagrams, DevSecOps controls, and automated documentation quality.
+- [Architecture Lab](https://github.com/GianOro10/architecture-lab) — enterprise architecture patterns, ADRs, HLD reference designs, Mermaid diagrams, DevSecOps controls, and automated quality gates.
+- [Production RAG Platform Reference](https://github.com/GianOro10/architecture-lab/tree/main/reference-implementations/production-rag-platform) — executable FastAPI, Terraform/AWS, hardened Kubernetes, OpenTelemetry, security controls, tests, and CI.
 - [DevOps en AWS](https://github.com/GianOro10/devops-en-aws-libro) — manuscript and practical resources focused on DevOps practices on AWS.
 - [NegoDigital](https://github.com/GianOro10/negodigital) — platform concept for identifying businesses without a digital presence and enabling website creation.
 
