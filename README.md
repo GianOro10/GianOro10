@@ -31,6 +31,7 @@ I have worked across **financial services, aviation, healthcare, and the public 
 
 ### Selected public work
 
+- [Architecture Lab](https://github.com/GianOro10/architecture-lab) — enterprise architecture patterns, ADRs, HLD reference designs, Mermaid diagrams, DevSecOps controls, and automated documentation quality.
 - [DevOps en AWS](https://github.com/GianOro10/devops-en-aws-libro) — manuscript and practical resources focused on DevOps practices on AWS.
 - [NegoDigital](https://github.com/GianOro10/negodigital) — platform concept for identifying businesses without a digital presence and enabling website creation.
 
